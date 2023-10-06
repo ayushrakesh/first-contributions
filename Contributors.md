@@ -1,5 +1,6 @@
 
 # Contributors
+- [Ayush Rakesh](https://github.com/ayushrakesh)
 - [JaggedGem](https://github.com/JaggedGem)
 - [SneakyShirtBalls](https://github.com/sneakyshirtballs)
 - [faea726](https://github.com/faea726)
